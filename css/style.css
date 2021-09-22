@@ -1,0 +1,39 @@
+.span{
+    margin-right: 10px;
+}
+
+.btn_twitter{
+    font-size: 90%;
+    color: white !important;
+}
+
+body{
+    background-color: black;
+}
+
+.hvfacebook{
+    background: transparent;
+    transition: all .4s ease;
+}
+
+.hvtwitter{
+    background: transparent;
+    transition: all .4s ease;
+}
+
+.hvfacebook:hover{
+    background-color: #1c74f4;
+}
+
+.hvtwitter:hover{
+    background-color: #00aced;
+}
+
+.bg-black{
+    background-color: #000000;
+    color: whitesmoke;
+}
+
+.card{
+    background: transparent !important;
+}
